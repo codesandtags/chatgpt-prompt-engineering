@@ -46,11 +46,21 @@ markmap:
 
 ## Transforming
 
+- Translation
+- Universal Translator
+- Tone Transformation
+- Format Conversion
+- Spellcheck/Grammar check
+
 ## Expanding
+
+- Customize the automated reply to a customer email
+- Remind the model to use details from the customer's email
 
 ## Chatbot
 
-## Conclusion
+- Roles: System, assistant, user
+- Orderbot
 
 
 Note: This is a course provided by OpenAI and DeepLearningAI
